@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "Icarus",
+  "description": "This extension will be better than momentum.",
+  "version": "0.1",
+  "chrome_url_overrides": {
+    "newtab": "icarus.html"
+  },
+  "browser_action": {},
+  "permissions": []
+}
